@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-benchmark-backend",
+  "version": "1.0.0",
+  "description": "This project builds an API in Node/Express with backend to Mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "benchmark",
+    "backend",
+    "express"
+  ],
+  "author": "Deven Panchal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9",
+    "morgan": "^1.9.1",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
