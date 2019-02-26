@@ -1,5 +1,5 @@
 
-# Sample Spring Express/Nodejs Backend
+# Sample Express/Nodejs Backend
 
 > This is an Express/Nodejs application. 
 
